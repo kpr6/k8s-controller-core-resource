@@ -2,8 +2,13 @@
 
 **Note**: the source code is _verbosely_ commented, so the source is meant to be read and to teach
 
-## Blog
+## References
 https://trstringer.com/extending-k8s-custom-controllers/
+https://github.com/kubernetes/community/blob/master/contributors/devel/sig-api-machinery/controllers.md
+https://github.com/kubernetes/community/blob/master/contributors/design-proposals/api-machinery/controller-ref.md
+https://github.com/kubernetes/client-go/tree/master/examples
+https://github.com/kubernetes/sample-controller
+https://github.com/aaronlevy/kube-controller-demo
 
 ## What is this?
 
